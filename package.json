@@ -1,0 +1,14 @@
+{
+  "name": "vscode-map-go-to-def",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "Stephen Niedzielski <stephen@niedzielski.com> (niedzielski.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "0.41.4"
+  }
+}
